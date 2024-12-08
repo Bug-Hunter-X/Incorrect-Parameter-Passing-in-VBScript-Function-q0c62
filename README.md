@@ -1,0 +1,1 @@
+This repository demonstrates a common error in VBScript: passing an incorrect number of parameters to a function. The `bug.vbs` file shows the erroneous code, while `bugSolution.vbs` provides the corrected version.
